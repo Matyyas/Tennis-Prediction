@@ -34,3 +34,9 @@ jupyter notebook
 
 ## Reproduce best results
 Our best models and training datasets can be found in the resources folder.
+
+## References
+
+Paper 1
+Paper 2
+Kaggle
