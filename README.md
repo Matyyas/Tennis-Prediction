@@ -4,7 +4,7 @@ For those who loves Machine Learning and Tennis, come and see! In this notebook 
 
 To perform this task we use Tennis data from 2000 to 2016 in order to predict macthes' outcome of 2017. Here are all the information about the scraped raw data we used to build this tennis predictor: [dataset description](http://www.tennis-data.co.uk/notes.txt)
 
-Our final purpose is to build a betting strategy that can have a positive ROI 👑. We explored 2 betting strategies and were able to found a lucrative one.
+Our final purpose is to build a betting strategy that can have a positive ROI 👑. We explored 2 betting strategies and were able to find a lucrative one.
 
 ![](https://github.com/Matyyas/Tennis-Prediction/blob/main/img/cumulative_profit.png)
 
